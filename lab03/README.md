@@ -2,7 +2,7 @@
 
 ## Notebook sobre Lombriga no Aquário
 
-
+https://github.com/MrTaiko314/mc322-c2learn/blob/main/lab03/notebook/lab-lombriga-ra172233.ipynb
 
 ## Arquivos Java sobre Lombriga no Aquário
 
